@@ -1,1 +1,2 @@
-# tugas
+# Excercise
+Abdul Majid
